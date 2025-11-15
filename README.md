@@ -48,5 +48,5 @@ Dark and light theme
 
 Author
 
-'MOHAMMAD KARDAR'
+'SHAIK SUHAIL'
 Project for learning and developing AI powered content tools
